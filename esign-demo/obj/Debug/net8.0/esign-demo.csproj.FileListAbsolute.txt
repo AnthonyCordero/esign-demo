@@ -1,0 +1,6 @@
+C:\Users\antho\Documents\esign-demo\esign-demo\obj\Debug\net8.0\esign-demo.csproj.AssemblyReference.cache
+C:\Users\antho\Documents\esign-demo\esign-demo\obj\Debug\net8.0\esign-demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Documents\esign-demo\esign-demo\obj\Debug\net8.0\esign-demo.AssemblyInfoInputs.cache
+C:\Users\antho\Documents\esign-demo\esign-demo\obj\Debug\net8.0\esign-demo.AssemblyInfo.cs
+C:\Users\antho\Documents\esign-demo\esign-demo\obj\Debug\net8.0\esign-demo.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\esign-demo\esign-demo\obj\Debug\net8.0\esign-demo.sourcelink.json
