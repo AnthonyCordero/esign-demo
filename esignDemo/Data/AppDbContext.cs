@@ -9,7 +9,7 @@ namespace esignDemo.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("YourConnectionStringHere");
+            optionsBuilder.UseSqlite("Data Source=esignDemo.db");
         }
     }
 }
