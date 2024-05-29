@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("esign-demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f230e58fd908c1b2c623983f044496ea1901cadb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1eee00a0c0616a29280d6ca36fa0c75f1ee15888")]
 [assembly: System.Reflection.AssemblyProductAttribute("esign-demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("esign-demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
