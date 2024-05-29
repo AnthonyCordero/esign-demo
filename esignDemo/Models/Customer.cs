@@ -1,4 +1,4 @@
-namespace esign-demo.Models
+namespace esignDemo.Models
 {
     public class Customer
     {

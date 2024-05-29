@@ -6692,11 +6692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\antho\\Documents\\esign-demo\\esign-demo\\esign-demo.csproj",
-      "projectName": "esign-demo",
-      "projectPath": "C:\\Users\\antho\\Documents\\esign-demo\\esign-demo\\esign-demo.csproj",
+      "projectUniqueName": "C:\\Users\\antho\\Documents\\esign-demo\\esignDemo\\esignDemo.csproj",
+      "projectName": "esignDemo",
+      "projectPath": "C:\\Users\\antho\\Documents\\esign-demo\\esignDemo\\esignDemo.csproj",
       "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\antho\\Documents\\esign-demo\\esign-demo\\obj\\",
+      "outputPath": "C:\\Users\\antho\\Documents\\esign-demo\\esignDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
