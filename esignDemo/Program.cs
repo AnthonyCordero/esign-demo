@@ -2,10 +2,10 @@
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using SignNowApp.Data;
-using SignNowApp.Services;
+using esignDemo.Data;
+using esignDemo.Services;
 
-namespace SignNowApp
+namespace esignDemo
 {
     class Program
     {
