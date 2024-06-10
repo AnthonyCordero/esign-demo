@@ -14,7 +14,8 @@
           "Microsoft.EntityFrameworkCore.Tools": "8.0.5",
           "Newtonsoft.Json": "13.0.3",
           "System.Net.Http": "4.3.4",
-          "itext7": "8.0.4"
+          "itext7": "8.0.4",
+          "itext7.pdfhtml": "5.0.4"
         },
         "runtime": {
           "esignDemo.dll": {}
@@ -139,9 +140,25 @@
           }
         }
       },
+      "itext.pdfhtml/5.0.4": {
+        "dependencies": {
+          "itext": "8.0.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/itext.html2pdf.dll": {
+            "assemblyVersion": "5.0.4.0",
+            "fileVersion": "5.0.4.0"
+          }
+        }
+      },
       "itext7/8.0.4": {
         "dependencies": {
           "itext": "8.0.4"
+        }
+      },
+      "itext7.pdfhtml/5.0.4": {
+        "dependencies": {
+          "itext.pdfhtml": "5.0.4"
         }
       },
       "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
@@ -1751,12 +1768,26 @@
       "path": "itext.commons/8.0.4",
       "hashPath": "itext.commons.8.0.4.nupkg.sha512"
     },
+    "itext.pdfhtml/5.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-F8LpOCs2QIs03tgq1WJS9YVq01sMhWdDNriHbNhDIsq4XUVsTl83A+OZwT338TjJOOomDJKdplQfWZig5cnWJw==",
+      "path": "itext.pdfhtml/5.0.4",
+      "hashPath": "itext.pdfhtml.5.0.4.nupkg.sha512"
+    },
     "itext7/8.0.4": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-J+eaLBqCSXbk4DPGuuKZPcs02cH7De6xGZ312o87d21MNgSmAQQikDVw5OpcdMiA0GW/YT/VXRjU5cLPa6sh9A==",
       "path": "itext7/8.0.4",
       "hashPath": "itext7.8.0.4.nupkg.sha512"
+    },
+    "itext7.pdfhtml/5.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FgOtKJb8oLqbQBempBYqajM7HeRIgJ+q1fo92WleQZFXxy9z7VPq6aX4guEJzp2E9ytzaA4e9JML8d6BnAd8ww==",
+      "path": "itext7.pdfhtml/5.0.4",
+      "hashPath": "itext7.pdfhtml.5.0.4.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
       "type": "package",

@@ -1,7 +1,8 @@
 using System.IO;
 using iText.Kernel.Pdf;
-using iText.Forms;
-using iText.Forms.Fields;
+using iText.Layout;
+using iText.Layout.Element;
+using iText.Layout.Properties;
 using esignDemo.Models;
 
 namespace esignDemo.Services
