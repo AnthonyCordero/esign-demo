@@ -155,3 +155,16 @@ C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\runtimes\win-arm\
 C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\itext.forms.dll
+C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\itext.io.dll
+C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\itext.layout.dll
+C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\itext.sign.dll
+C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\itext.svg.dll
+C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\itext.commons.dll
+C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll

@@ -10,10 +10,10 @@ namespace esignDemo.Services
 {
     public class SignNowService
     {
-        private const string ClientId = "YOUR_CLIENT_ID"; // Reemplaza con tu client ID
-        private const string ClientSecret = "YOUR_CLIENT_SECRET"; // Reemplaza con tu client secret
-        private const string Username = "YOUR_EMAIL"; // Reemplaza con tu correo electrónico
-        private const string Password = "YOUR_PASSWORD"; // Reemplaza con tu contraseña
+        private const string ClientId = "808880888"; // Reemplaza con tu client ID
+        private const string ClientSecret = "esignDemo"; // Reemplaza con tu client secret
+        private const string Username = "tony170593@gmail.com"; // Reemplaza con tu correo electrónico
+        private const string Password = "tony"; // Reemplaza con tu contraseña
         private const string ApiBaseUrl = "https://api.signnow.com";
 
         public async Task<string> GetAccessToken()

@@ -21,13 +21,16 @@ namespace esignDemo
                     return;
                 }
 
+                var documentGenerator = new DocumentGenerator();
+                string documentPath = documentGenerator.GenerateDocument(customer);
+
                 var signNowService = new SignNowService();
 
                 string accessToken = await signNowService.GetAccessToken();
 
                 if (!string.IsNullOrEmpty(accessToken))
                 {
-                    string documentId = await signNowService.UploadDocument(accessToken, "path/to/your/document.pdf");
+                    string documentId = await signNowService.UploadDocument(accessToken, documentPath);
 
                     if (!string.IsNullOrEmpty(documentId))
                     {
