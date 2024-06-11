@@ -3,14 +3,23 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - SignNowApp</title>
-    <link rel="stylesheet" href="~/css/site.css" />
+    <title>@ViewData["Title"] - EsignDemo</title>
+
+                        <!-- Local CSS -->
+
+    <link rel="stylesheet" href="../../styles/Home.css"/>
+    <link rel="stylesheet" href="../../wwwroot/root.css"/>
+    
+
+                        <!-- Local CSS -->
 </head>
+
+
 <body>
     <header>
         <nav>
             <ul>
-                <li><a asp-page="/Index">Home</a></li>
+                <li><a asp-controller="Home" asp-action="Index">Home</a></li>
                 <!-- Añadir otros enlaces de navegación aquí -->
             </ul>
         </nav>

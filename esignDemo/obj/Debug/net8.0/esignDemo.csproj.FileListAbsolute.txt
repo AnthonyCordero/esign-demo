@@ -169,3 +169,7 @@ C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\itext.svg.dll
 C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\itext.commons.dll
 C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\antho\Documents\esign-demo\esignDemo\bin\Debug\net8.0\itext.html2pdf.dll
+C:\Users\antho\Documents\esign-demo\esignDemo\obj\Debug\net8.0\esignDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\antho\Documents\esign-demo\esignDemo\obj\Debug\net8.0\esignDemo.RazorAssemblyInfo.cache
+C:\Users\antho\Documents\esign-demo\esignDemo\obj\Debug\net8.0\esignDemo.RazorAssemblyInfo.cs
+C:\Users\antho\Documents\esign-demo\esignDemo\obj\Debug\net8.0\esignDemo.MvcApplicationPartsAssemblyInfo.cs
