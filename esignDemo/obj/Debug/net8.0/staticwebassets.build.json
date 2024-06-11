@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "L7qkD8nYE0G6hMkvk5nXQwlewhVUtVYpnJoVkxf3jo4=",
+  "Source": "esignDemo",
+  "BasePath": "_content/esignDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "esignDemo\\wwwroot",
+      "Source": "esignDemo",
+      "ContentRoot": "C:\\Users\\antho\\Documents\\esign-demo\\esignDemo\\wwwroot\\",
+      "BasePath": "_content/esignDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\antho\\Documents\\esign-demo\\esignDemo\\wwwroot\\css\\home.css",
+      "SourceId": "esignDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\antho\\Documents\\esign-demo\\esignDemo\\wwwroot\\",
+      "BasePath": "_content/esignDemo",
+      "RelativePath": "css/home.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\home.css"
+    },
+    {
+      "Identity": "C:\\Users\\antho\\Documents\\esign-demo\\esignDemo\\wwwroot\\css\\root.css",
+      "SourceId": "esignDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\antho\\Documents\\esign-demo\\esignDemo\\wwwroot\\",
+      "BasePath": "_content/esignDemo",
+      "RelativePath": "css/root.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\root.css"
+    }
+  ]
+}
